@@ -1,4 +1,4 @@
 Ktwocell=kuramoto_within_twocell_droplet(cell2);%kuramoto number within two cells droplets
-singlecellk=kuramoto_within_onecell(cell1,RhB);%kuramoto number within single cell droplets
+Konecellk=kuramoto_within_onecell(cell1,RhB);%kuramoto number within single cell droplets
 Kbetweentwocell=kuramoto_between_twocell(cell2);%kuramoto number between two cells droplets
-K=droplet_between_onecell(cell1,RhB);%kuramoto number between single cell droplets
+Kbetweenonecell=droplet_between_onecell(cell1,RhB);%kuramoto number between single cell droplets
